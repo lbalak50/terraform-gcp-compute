@@ -6,6 +6,7 @@ Proof of concept for IaC (Infrastructure as Code). This repository contains seve
 ## Projects
 
 1. [gcp_cluster1](./gcp_cluster1) - 2-node NodeJS cluster.
+2. [gcp_helloworld](./gcp_cluster1) - Hello world app.
 
 ## License and contact information
 
