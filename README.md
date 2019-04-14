@@ -1,2 +1,2 @@
 # terraform-gcp-compute
-Deploy virtual machines on Google Cloud Platform using Terraform
+Proof of concept for IaS (Infrastructure as Code). This project is for deploying and managing virtual machines on Google Cloud using Terraform.
